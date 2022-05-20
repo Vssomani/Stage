@@ -1,5 +1,7 @@
  body {
     padding-left: 20em;
+    padding-top: 10;
+    margin: 0;
     
      font-family: Georgia, "Times New Roman",
           Times, serif;
@@ -8,8 +10,8 @@
     background-color: #59d5f7 }
      ul.navbar {
        list-style-type: none;
-    padding: 20;
-    margin: 10;
+    padding: 0;
+    margin: 0;
     position: absolute;
     top: 2.5em;
     left: 1.5em;
